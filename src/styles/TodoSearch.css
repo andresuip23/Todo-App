@@ -1,0 +1,36 @@
+
+:root{
+  --light-blue:#8ECAE6;
+  --mid-blue:#219EBC;
+  --dark-blue:#023047;
+  --light-orange:#FFB703;
+  --dark-orange:#FB8500;
+
+}
+
+
+.TodoSearch {
+    background: #F9FBFC;
+    border-radius: 14px;
+    border: 2px solid var(--dark-blue);
+    margin: 0 24px;
+    height: 64px;
+    width: 600px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 400;
+    color: #1E1E1F;
+    box-shadow: 5px 5px 50px rgba(2, 37, 70, 0.664);
+    margin-bottom: 32px;
+  }
+
+  .holder{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .TodoSearch::placeholder {
+    color: #A5A5A5;
+    font-weight: 400;
+  }
+  

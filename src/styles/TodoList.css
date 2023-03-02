@@ -1,0 +1,14 @@
+:root{
+  --light-blue:#8ECAE6;
+  --mid-blue:#219EBC;
+  --dark-blue:#023047;
+  --light-orange:#FFB703;
+  --dark-orange:#FB8500;
+
+}
+
+.TodoList {
+    margin: 0;
+    padding: 0 0 56px 0;
+    list-style: none;
+  }

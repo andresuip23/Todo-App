@@ -1,0 +1,16 @@
+:root{
+  --light-blue:#8ECAE6;
+  --mid-blue:#219EBC;
+  --dark-blue:#023047;
+  --light-orange:#FFB703;
+  --dark-orange:#FB8500;
+
+}
+
+.TodoCounter {
+    font-size: 26px;
+    color: azure;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+  }

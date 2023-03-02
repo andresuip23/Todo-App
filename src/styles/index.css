@@ -1,0 +1,36 @@
+:root{
+  --light-blue:#8ECAE6;
+  --mid-blue:#219EBC;
+  --dark-blue:#023047;
+  --light-orange:#FFB703;
+  --dark-orange:#FB8500;
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Tilt Neon', cursive;
+  background-color: #023047;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 80px;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Tilt Neon', cursive;
+
+}
+
+@media(max-width: 810px){
+  body {
+    margin: 0;
+    font-family: 'Tilt Neon', cursive;
+    background-color:#334d69;
+  
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}

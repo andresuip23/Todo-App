@@ -1,0 +1,14 @@
+:root{
+    --light-blue:#8ECAE6;
+    --mid-blue:#219EBC;
+    --dark-blue:#023047;
+    --light-orange:#FFB703;
+    --dark-orange:#FB8500;
+
+}
+
+.container-noTodos{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
